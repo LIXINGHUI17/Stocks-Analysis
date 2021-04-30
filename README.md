@@ -56,4 +56,17 @@
 
 # Summary
 ## There is a detailed statement on the advantages and disadvantages of refactoring code in general.
+### Advantages: 
+  Easy to find error
+  Make our code cleaner and more organizaed
+  
+### Disadvantages:
+  Refactoring process can affect the testing outcomes.
+  
 ## There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script.
+### Advantages:
+  Clearly organized, easy to find the code we need
+  
+### Disadvantages:
+  Code might be duplicated
+  Use more time and memory to run code
