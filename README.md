@@ -39,7 +39,9 @@
 
 ### 5. Code for formatting the cells in the spreadsheet is working.
 ![formatting](/Resources/formatting.png)
+
 ### 6. There are comments to explain the purpose of the code.
+#### Consistent Indentation, Avoid Deep Nesting, Control the line length, Comment the step on the code, Grouping.
 ### 7. The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.
 
 #### Dataset Provided
